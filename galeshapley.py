@@ -276,7 +276,7 @@ class GaleShapleyVisualizer:
                 "PROPERTIES:",
                 "- Men-optimal: Each man gets his best achievable partner",
                 "- Women-pessimal: Each woman gets her worst achievable partner",
-                "- The algorithm always terminates in O(n^2) proposals"
+                "- The algorithm terminates in O(n^2) proposals"
             ])
         
         else:
